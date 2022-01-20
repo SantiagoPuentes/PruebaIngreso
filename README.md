@@ -1,2 +1,3 @@
-# PruebaIngreso
-Este respositorio tiene como finalidad presentar la prueba para el proceso de selección de ingenieros de robotica
+# Repositorio para el proceso de selección de ingeniero de robotica SunnyApp robotics 
+
+Fork este repositorio y tomalo como base para realizar el desarrollo de la solución.
